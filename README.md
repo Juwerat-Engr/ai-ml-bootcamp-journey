@@ -7,8 +7,8 @@ Hi, I'm Juwerat — a Chemical Engineering student at Abiola Ajimobi Technical U
 I believe AI and Machine Learning are transforming industries globally. I want to be at the forefront of that transformation, building solutions that are relevant to my environment and my people.
 
 ## My Other Profiles
-- 💼 LinkedIn: [Add your LinkedIn link here]
-- 🐦 X (Twitter): [Add your X handle here]
+- 💼 LinkedIn: https://www.linkedin.com/in/abdsalam-juwerat-jibola-3376992b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 🐦 X (Twitter): https://x.com/Jibola2004
 
 ---
 
